@@ -1,0 +1,22 @@
+# Keil build and user-specific files
+*.o
+*.d
+*.crf
+*.__i
+*.axf
+*.hex
+*.map
+*.lst
+*.lnp
+*.htm
+*.tra
+*.dep
+*.uvgui*
+*.uvopt*
+*.bak
+Objects/
+Listings/
+RTE/
+*.log
+.DS_Store
+Thumbs.db
