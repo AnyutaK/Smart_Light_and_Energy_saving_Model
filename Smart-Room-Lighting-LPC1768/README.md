@@ -74,4 +74,6 @@ ECO is based on time spent in the same light category, **not occupancy detection
 
 ## Contributors
 
-Add all team members and their contributions here before publishing.
+Aastha Khandelwal
+Jonalagadda Bindu Keerthi
+Anyuta Kumar
